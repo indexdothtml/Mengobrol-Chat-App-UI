@@ -1,16 +1,53 @@
-# mengobrol_chat_app_ui
+# Mengobrol Chat App UI
 
-A new Flutter project.
+A Chat app UI inspired by [Mengobrol - Chat App by Asal Design][https://dribbble.com/shots/22351367-Mengobrol-Chat-App], created using Flutter.
 
-## Getting Started
+## Table of Contents
 
-This project is a starting point for a Flutter application.
+- [Installation](#installation)
+- [Features](#features)
+- [Usage](#usage)
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ensure you have the following installed:
+
+1. Flutter SDK: Install the latest stable version from the Flutter website.
+2. IDE: Android Studio or VS Code (recommended for Flutter development).
+3. Git: Necessary for cloning the repository.
+
+Ensure environment is ready
+
+```bash
+flutter doctor
+```
+
+### Installation step
+
+1. Clone the repository
+
+```bash
+ git clone https://github.com/indexdothtml/Mengobrol-Chat-App-UI
+```
+
+2. Install dependancies
+
+```bash
+flutter pub get
+```
+
+3. Run project
+
+```bash
+flutter run
+```
+
+## Features
+
+To be added in future.
+
+## Usage
+
+To be added in future.
