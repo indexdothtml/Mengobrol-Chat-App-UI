@@ -1,6 +1,6 @@
 # Mengobrol Chat App UI
 
-A Chat app UI inspired by [Mengobrol - Chat App by Asal Design][https://dribbble.com/shots/22351367-Mengobrol-Chat-App], created using Flutter.
+A Chat app UI inspired by [Mengobrol - Chat App by Asal Design](https://dribbble.com/shots/22351367-Mengobrol-Chat-App), created using Flutter.
 
 ## Table of Contents
 
