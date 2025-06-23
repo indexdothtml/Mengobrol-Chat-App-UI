@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-class UserStoryButton extends StatelessWidget {
-  const UserStoryButton({
+class UserAvatar extends StatelessWidget {
+  const UserAvatar({
     super.key,
     required this.profilePicture,
-    required this.userName,
+    this.userName = '',
   });
 
   final String profilePicture;
@@ -21,10 +21,11 @@ class UserStoryButton extends StatelessWidget {
           clipBehavior: Clip.antiAlias,
           child: Image.asset(profilePicture, fit: BoxFit.cover),
         ),
-        Text(
-          userName,
-          style: const TextStyle(fontSize: 15, fontWeight: FontWeight.w500),
-        ),
+        if (userName != '')
+          Text(
+            userName,
+            style: const TextStyle(fontSize: 15, fontWeight: FontWeight.w500),
+          ),
       ],
     );
   }

@@ -1,12 +1,13 @@
-# Mengobrol Chat App UI
+# Mengobrol Chat App UI (Static)
 
 A Chat app UI inspired by [Mengobrol - Chat App by Asal Design](https://dribbble.com/shots/22351367-Mengobrol-Chat-App), created using Flutter.
+
+**Note** - It is just a Static UI, I tried to clone it for practicing flutter basics, Widgets like Column, Row, SingleChildScrollableView, SafeArea etc.
 
 ## Table of Contents
 
 - [Installation](#installation)
-- [Features](#features)
-- [Usage](#usage)
+- [Screenshot](#screenshot)
 
 ## Installation
 
@@ -44,10 +45,6 @@ flutter pub get
 flutter run
 ```
 
-## Features
+## Screenshot
 
-To be added in future.
-
-## Usage
-
-To be added in future.
+<img src="screenshots/chat_app_ui.png" width="200">
